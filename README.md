@@ -84,23 +84,41 @@ The dataset contains detailed information about residential homes, including siz
 ## 📁 Project Structure
 
 house-price-prediction/
+
 │
+
 ├── backend/
-│ ├── model/
-│ │ └── house_model.pkl
-│ ├── main.py
-│ ├── train_model.py
-│ ├── requirements.txt
+
+│   ├── model/
+
+│   │   └── house_model.pkl
+
+│   ├── main.py
+
+│   ├── train_model.py
+
+│   └── requirements.txt
+
 │
+
 ├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+
+│   ├── index.html
+
+│   ├── style.css
+
+│   └── script.js
+
 │
+
 ├── data/
-│ └── train.csv
+
+│   └── train.csv
+
 │
+
 └── README.md
+
 
 
 
@@ -167,6 +185,16 @@ http://localhost:5500
 Sample Output
 Predicted Price: ₹ 1,85,000
 
+
+### 🖼️ Application Screenshots
+
+### 🔹 Home Page
+<img width="1084" height="928" alt="image" src="https://github.com/user-attachments/assets/a4f0f409-e17e-4fbc-8e76-4d425e431aa6" />
+
+### 🔹 Prediction Result
+<img width="889" height="925" alt="image" src="https://github.com/user-attachments/assets/e8162c9a-885c-4fa7-a1bd-1452c8eb2248" />
+
+
 ### ✨ Features
 
 Real-world dataset
@@ -204,3 +232,4 @@ Special thanks to all open-source contributors and Kaggle for providing the data
 ## 👩‍💻 Developed By
 **Aditi**
 🔗 GitHub: https://github.com/aditi73984/
+
